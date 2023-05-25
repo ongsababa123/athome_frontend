@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.17026858.css",
+    "main.js": "/static/js/main.43c905b3.js",
+    "static/media/Bolt.png": "/static/media/Bolt.0f447ea960d09b6181fe.png",
+    "static/media/indrive.png": "/static/media/indrive.a1e3d8e48ad4b4c534c1.png",
+    "index.html": "/index.html",
+    "main.17026858.css.map": "/static/css/main.17026858.css.map",
+    "main.43c905b3.js.map": "/static/js/main.43c905b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17026858.css",
+    "static/js/main.43c905b3.js"
+  ]
+}
